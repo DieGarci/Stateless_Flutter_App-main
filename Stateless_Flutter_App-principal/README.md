@@ -5,7 +5,7 @@
 # Practica
 Numero de Practica:  06.
 
-Nombre de Practica: Stateless_App.
+Nombre de Practica: Stateless
 
 # Datos Acédemicos
 Instituto: Universidad Tecnológica de Xicotepec de Juárez.
