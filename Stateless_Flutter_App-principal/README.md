@@ -16,11 +16,11 @@ Materia: Desarrollo Móvil Integral.
 
 Docente: M.T.I Marco Antonio Ramírez Hernández.
 
-Alumno/Author: Enrique Santiago Peralta.
+Alumno/Author: Diego Garcia Andrade
 
-# Objetivo de Practica 
-Comprendiendo que los widgets stateless heredan la clase StatelessWidget, utilizando Icon y Text como estático, que no guardan ningún tipo de estado, no tienen valores que pueden cambiar, solo se muestra en pantalla.
-
+# Objetivo de Practic
+Un widget  describe parte de la interfaz  del usuario mediante  la creacion  de una constelacion  de otros  widgets que  describe  la interfaz  de  una manera mas concreta.
+  
 # Herramientas:
 •	Visual Studio Code 
 
@@ -35,7 +35,7 @@ Comprendiendo que los widgets stateless heredan la clase StatelessWidget, utiliz
 •	DevTools
 
 
-# Imgenes/Resultado 
-![statelessapp](https://user-images.githubusercontent.com/79369079/193977010-d8638996-f3da-4c1d-9f5f-4a6b274b6dac.png)
+# Imgenes/Resultad
+![statelessapp](https://user-images.githubusercontent.com/79369079/193977010-d8638996-f3da-4c1d-
 
 
