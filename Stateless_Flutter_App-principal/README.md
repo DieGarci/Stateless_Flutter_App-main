@@ -36,6 +36,6 @@ Un widget  describe parte de la interfaz  del usuario mediante  la creacion  de 
 
 
 # Imgenes/Resultad
-![statelessapp](https://user-images.githubusercontent.com/79369079/193977010-d8638996-f3da-4c1d-
+![Captura de pantalla (10)](https://user-images.githubusercontent.com/102392362/194066871-70c375ed-1ee7-4a26-aa51-48165b6a99ff.png)
 
 
